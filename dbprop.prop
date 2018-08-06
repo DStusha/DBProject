@@ -1,0 +1,6 @@
+jdbc = jdbc:mysql://
+instance = localhost:3306/
+dbName = mydb
+user = root
+password = root
+flags = verifyServerCertificate=false&useSSL=true
